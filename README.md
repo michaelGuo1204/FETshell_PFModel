@@ -11,3 +11,7 @@
 - Results/MultipleDNA.ipynb : Pipelines for multiple DNA case
 - Results/Movie : Animation for shell formation
 - Results/PhaseDiagram : Pipeline and meta information of phase diagram
+
+## Packages included
+
+torch, numpy, skimage
